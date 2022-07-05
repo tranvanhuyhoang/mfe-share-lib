@@ -1,11 +1,12 @@
 <template>
   <div class="page-header">
-    <h1>{{ title }}</h1>
+    <h1>Tesst</h1>
+     <!-- <h1>{{ title }}</h1> -->
   </div>
 </template>
 <script>
 export default {
-  props: ["title"],
+  // props: ["title"],
 };
 </script>
 <style scoped>

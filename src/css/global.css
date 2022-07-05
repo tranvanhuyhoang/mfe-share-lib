@@ -17,7 +17,7 @@
 
 #product-detail {
     grid-area: detail;
-    border: 2px dashed #f96b00;
+    border: 2px dashed red;
     padding-right: 30px;
     position: relative;
 }
