@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.html",
   "scripts": {
-    "start": "webpack-dev-server --port 12000",
+    "serve": "webpack-dev-server --port 12000",
     "build": "webpack --mode=production"
   },
   "author": "hoangtvh",
